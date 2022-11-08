@@ -1,4 +1,4 @@
-$PGRM="binaryName"
+PGRM="binaryName"
 
 rabin -I $PRGRM >> info.txt
 
